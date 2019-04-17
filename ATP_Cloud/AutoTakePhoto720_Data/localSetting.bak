@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PngOutFolder>C:\Users\User\Desktop\轉檔\Input</PngOutFolder>
+  <FileFBX>C:\Users\User\Downloads\BuildingData\SourPlumDrink\FBX\SourPlumDrink.fbx</FileFBX>
+  <TextureFolder>C:\Users\User\Downloads\BuildingData\SourPlumDrink\FBX\texture</TextureFolder>
+  <CloudDataFolder>C:\Users\User\Downloads\臺南地方法院\0808_TNDF.e57</CloudDataFolder>
+  <CameraAngle>10</CameraAngle>
+</LocalSetting>
