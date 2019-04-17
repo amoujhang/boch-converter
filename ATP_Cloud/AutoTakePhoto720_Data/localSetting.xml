@@ -1,8 +1,0 @@
-﻿<?xml version="1.0"?>
-<LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PngOutFolder>Input</PngOutFolder>
-  <FileFBX>SourPlumDrink.fbx</FileFBX>
-  <TextureFolder>texture</TextureFolder>
-  <CloudDataFolder>.e57</CloudDataFolder>
-  <CameraAngle>3</CameraAngle>
-</LocalSetting>

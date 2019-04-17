@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<LocalSetting xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
-  <PngOutFolder>Input</PngOutFolder>
-  <FileFBX>C:\Users\amous_000\AppData\Local\Temp\converter\WudeTemple.fbx</FileFBX>
-  <TextureFolder>C:\Users\amous_000\AppData\Local\Temp\converter\texture</TextureFolder>
-  <CloudDataFolder>0808_TNDF.e57</CloudDataFolder>
-  <CameraAngle>1</CameraAngle>
-</LocalSetting>
